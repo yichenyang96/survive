@@ -1,5 +1,9 @@
 # Survive
 
+For fun :)
+
+Please survive as much level as possible :)
+
 please see the tutorial at the beginning of the game.
 
 WASD for move
