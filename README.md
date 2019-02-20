@@ -1,5 +1,7 @@
 # Survive
 
+Please use the url: https://yichenyang96.github.io/survive/index.html to play the game online
+
 For fun :)
 
 Please survive as much level as possible :)
