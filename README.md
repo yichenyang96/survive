@@ -2,11 +2,11 @@
 
 Please use the url: https://yichenyang96.github.io/survive/index.html to play the game online
 
-For fun :)
-
 Please survive as much level as possible :)
 
-please see the tutorial at the beginning of the game.
+For fun :)
+
+please follow the tutorial at the beginning of the game.
 
 WASD for move
 
@@ -21,4 +21,6 @@ Tab for open and close the condition panel
 Esc for restart the game
 
 P for next level
+
+O for invincibility
 
